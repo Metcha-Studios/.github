@@ -1,7 +1,7 @@
 ## Hi there 👋
 #
-### **How about a tub of matcha ice cream,**
-#### **or would you rather sit down and chat about the superpower you'd want the most?**
+### **🍦 How about a tub of matcha ice cream,**
+#### **🧬 or would you rather sit down and chat about the superpower you'd want the most?**
 #
 
 <!--
